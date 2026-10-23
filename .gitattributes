@@ -1,0 +1,2 @@
+datasets/datasets.zip filter=lfs diff=lfs merge=lfs -text
+logs/llm_evals/*.csv filter=lfs diff=lfs merge=lfs -text
