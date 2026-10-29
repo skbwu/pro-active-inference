@@ -1,5 +1,5 @@
 # Pro-Active Inference
-This repository accompanies the paper "Pro-Active Inference."
+This repository accompanies the paper "[Pro-Active Inference](https://arxiv.org/abs/2610.34681)."
 
 **A note on data:** all cleaned datasets can be found in the `datasets.zip` file in our `datasets` directory . Please unzip this compressed file before running our experimental, analysis, and visualizing scripts. The `data_processing.ipynb` notebook contains our exact procedures for pre-processing and cleaning each dataset: this includes feature selection, train/test splitting, initial model fitting, and saving standardized data structures to file, as appropriate. URLs to raw dataset sources are also provided in this notebook.
 
